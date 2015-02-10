@@ -1,5 +1,5 @@
 Initial commit to the master branch of the project.
-Master line 1
+Master line 1 - modified for commit M2 to master
 Master line 2
 Master line 3
 Master line 4
